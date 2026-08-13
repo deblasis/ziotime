@@ -74,4 +74,9 @@ captures the `io` you pass to `start` and reuses it.
 
 ## License
 
-MIT. Copyright (c) 2026 Alessandro De Blasis.
+Dual-licensed under either of
+
+- [MIT License](LICENSE-MIT)
+- [Apache License 2.0](LICENSE-APACHE)
+
+at your option. Unless you explicitly state otherwise, any contribution intentionally submitted for inclusion shall be dual-licensed as above without additional terms.
